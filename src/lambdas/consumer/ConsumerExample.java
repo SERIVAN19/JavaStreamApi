@@ -7,7 +7,7 @@ public class ConsumerExample {
     public static void main(String[] args) {
 
         /*Consumer
-        * recibe unvalory y no retorna nada.
+        * recibe un valor y no retorna nada.
         * */
         Consumer<String> printConsumer = (parametro) ->
                 System.out.println(parametro);

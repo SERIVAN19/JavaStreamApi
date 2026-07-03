@@ -2,6 +2,7 @@ package lambdas.consumer.predicate;
 
 public class predicateExample {
     public static void main(String[] args) {
+
         /*Predicate
          * Recibe un valor y retorna un booleano.
          * */
